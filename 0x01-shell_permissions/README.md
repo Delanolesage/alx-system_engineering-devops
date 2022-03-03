@@ -11,4 +11,4 @@ My README.md file
 10- Script that sets the mode of the file hello to this: -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 11- Script that sets the mode of the file hello the same as olleh’s mode.
 12- Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
-13-
+13- Script that changes the group owner to school for the file hello.
